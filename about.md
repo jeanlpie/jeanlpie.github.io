@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# I do neuroscience
+
+Here is a link to [github](www.github.com)
 
 ### More Information
 
