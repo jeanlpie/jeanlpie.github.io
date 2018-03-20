@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /Publications/
 ---
 
-#Extensive list of my top publications
+# Extensive list of my top publications
 
-##Nature papers
+## Nature papers
 
-##Science papers
+## Science papers
