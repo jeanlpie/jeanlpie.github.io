@@ -6,7 +6,7 @@ permalink: /about/
 
 # I do neuroscience
 
-Here is a link to [github](www.github.com).
+Here is a link to [github](https://github.com/).
 
 ### More Information
 
