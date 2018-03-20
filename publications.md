@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /Publications/
+title: publications
+permalink: /publications/
 ---
 
 # Extensive list of my top publications
