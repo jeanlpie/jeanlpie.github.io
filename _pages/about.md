@@ -3,14 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. In Vivo Neurophysiology, VU Amsterdam. Cognitive and Systems Neuroscience, University of Amsterdam
-# Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: #>
-    <p>Amsterdam, NL</p>
+  more_info: #before i had > then new line and <p>Amsterdam, NL</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
