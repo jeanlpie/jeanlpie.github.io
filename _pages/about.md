@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: In Vivo Neurophysiology, VU Amsterdam
-Cognitive and Systems Neuroscience, University of Amsterdam #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. In Vivo Neurophysiology, VU Amsterdam. Cognitive and Systems Neuroscience, University of Amsterdam
+# Address. Contacts. Motto. Etc.
 
 profile:
   align: right
