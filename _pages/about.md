@@ -7,8 +7,8 @@ subtitle: <a href='#'>Affiliations</a>. In Vivo Neurophysiology, VU Amsterdam. C
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: #before i had > then new line and <p>Amsterdam, NL</p>
+  image_circular: true
+  more_info: >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
