@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. In Vivo Neurophysiology, VU Amsterdam. Cognitive and Systems Neuroscience, University of Amsterdam
+subtitle: <a href='https://research.vu.nl/en/persons/jean-pie/'>Neuroscientist · In-vivo electrophysiologist · VU Amsterdam</a>.  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-
+    <p>In Vivo Neurophysiology, VU Amsterdam</p>
+    <p>Cognitive and Systems Neuroscience, University of Amsterdam</p>
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
