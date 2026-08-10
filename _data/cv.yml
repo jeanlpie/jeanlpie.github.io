@@ -2,9 +2,9 @@ cv:
   name: Jean L. Pie
   label: Neuroscientist · In-vivo Electrophysiologist
   email: jeanlambert.pie@gmail.com
-  location: Amsterdam, NL
+  location: Amsterdam
   image: ""
-  summary: Neuroscientist and in-vivo electrophysiologist working at the intersection of neuroscience and technology, with a focus on neural decoding, brain–computer interfaces, and neuromodulation.
+  summary: 
 
   social_networks:
     - network: GitLab
@@ -167,11 +167,11 @@ cv:
 
     Skills:
       - name: Experimental
-        keywords: "In-vivo electrophysiology (silicon probes), optogenetics (tagging & silencing), closed-loop behavioral paradigms, building in-vivo platforms from scratch, visual–tactile VR (VIRMEN/MATLAB)"
+        keywords: "In-vivo electrophysiology (silicon probes), optogenetics (tagging & silencing), closed-loop behavioral paradigms, building in-vivo platforms from scratch, visual–tactile VR (VIRMEN/MATLAB), electrical engineering"
       - name: Computational
         keywords: "Neural decoding (SVM, RF, AUROC; single-cell & population), dimensionality reduction (PCA, tensor decomposition, subspace projection), statistics (GLM, LME, hierarchical bootstrapping, permutation tests, model comparison), DeepLabCut"
       - name: Programming
-        keywords: "Python, MATLAB, R, Git, Arduino C++, electrical engineering"
+        keywords: "Python, MATLAB, R, Git, Arduino C++"
 
     Languages:
       - name: English
