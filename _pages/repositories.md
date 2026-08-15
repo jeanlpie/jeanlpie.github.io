@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Gitlab: https://gitlab.com/users/jeanlpie/projects
+<a href='https://gitlab.com/users/jeanlpie/projects'>Gitlab</a>.  
 
 {% if site.data.repositories.github_users %}
 
