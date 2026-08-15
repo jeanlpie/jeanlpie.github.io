@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Code is associated to each publication in the publication tab.
+description: Code is associated to each publication in the publication tab. <br> Gitlab: https://gitlab.com/users/jeanlpie/projects
 nav: true
 nav_order: 4
 ---
